@@ -33,7 +33,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -70,7 +70,7 @@ Publish the website in the LocalHost.
 
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 
